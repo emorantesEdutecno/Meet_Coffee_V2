@@ -61,6 +61,11 @@ section {
   /* cambio de color por una regla específica que modifica la regla general */
   color: white;
 }
+.miClase{
+  font-size: 200px;
+  color: peru;
+  font-weight: 900;
+}
 
 #eventos {
   /* selector por ID */
